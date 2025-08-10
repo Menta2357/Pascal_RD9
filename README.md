@@ -38,21 +38,21 @@ A continuación se presentan resultados adicionales generados en Google Colab qu
 ## 1. Crecimiento y oscilación de \( v_p(t_n) \) para varios primos \(p\)
 Evolución de la valoración \( v_p(t_n) \) para distintos primos \( p \), mostrando patrones de crecimiento y oscilación.
 
-![Crecimiento y oscilación multi-p](graficos_colab/vp_tn_multi_p.png)
+![Crecimiento multi-p](graficos_colab/vp_tn_multi_p.png)
 
 ---
 
 ## 2. Mapa de calor de \( v_p(t_n) \bmod 9 \)
 Distribución modular de \( v_p(t_n) \) para varios primos, representada en un heatmap para identificar patrones.
 
-![Mapa de calor](graficos_colab/heatmap_vp_mod9.png)
+![Mapa de calor v_p(t_n) mod 9](graficos_colab/heatmap_vp_mod9.png)
 
 ---
 
 ## 3. Triángulo de Pascal mod 9 por clases RD9
 Visualización del triángulo de Pascal mod 9 coloreado según las clases RD9, mostrando su estructura fractal.
 
-![Triángulo de Pascal RD9](graficos_colab/pascal_rd9_figura2.png)
+![Figura Pascal RD9](graficos_colab/imagenes_pascall_rd9_figura2.png)
 
 ---
 
@@ -66,6 +66,6 @@ Gráfico que ilustra cómo una razón asociada a \( t_n \) converge hacia el nú
 ## 5. Ajuste ley de potencia en el error
 Relación log-log entre el error y \( n \), con estimación del exponente \( k \) y la constante \( C \) del ajuste.
 
-![Ajuste ley de potencia](graficos_colab/ajuste_ley_potencia_error.png)
+![Ajuste ley de potencia en el error](graficos_colab/ajuste_ley_potencia_error.png)
 📥 **Descarga directa del PDF**:  
 [Pascal_RD9_V2.pdf](https://github.com/Menta2357/Pascal_RD9/releases/download/v1.0.0/Pascal_RD9_V2.pdf)
