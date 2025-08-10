@@ -12,7 +12,7 @@ Pascal_RD9_V2.pdf — Versión compilada del artículo.
 
 LICENCIA — Licencia Creative Commons Attribution 4.0 International (CC BY 4.0).
 
-Carpeta gráficos_colab/ — Contiene imágenes de resultados adicionales generados en Google Colab.
+Carpeta graficos_colab/ — Contiene imágenes de resultados adicionales generados en Google Colab.
 
 🛠 Compilación
 Para compilar el documento, asegúrate de tener instalado un entorno LaTeX (por ejemplo TeX Live o MikTeX) y ejecuta:
