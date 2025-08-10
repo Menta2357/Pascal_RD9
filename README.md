@@ -32,31 +32,27 @@ Puedes copiarlo, redistribuirlo y adaptarlo, incluso con fines comerciales, siem
 
 ---
 
-# 📊 Gráficos adicionales
-A continuación se presentan resultados adicionales generados en Google Colab que complementan el análisis del artículo.
-
 ## 📊 Gráficos adicionales
 
 1. **Crecimiento y oscilación de \(v_p(t_n)\) para varios primos \(p\)**
    
-   ![Crecimiento multi‑p](graficos_colab/vp_tn_multi_p.png)
+   ![Crecimiento multi‑p](https://raw.githubusercontent.com/Menta2357/Pascal_RD9/main/graficos_colab/vp_tn_multi_p.png)
 
 2. **Mapa de calor de \(v_p(t_n) \bmod 9\)**
    
-   ![Mapa de calor v_p(t_n) mod 9](graficos_colab/heatmap_vp_mod9.png)
+   ![Mapa de calor v_p(t_n) mod 9](https://raw.githubusercontent.com/Menta2357/Pascal_RD9/main/graficos_colab/heatmap_vp_mod9.png)
 
 3. **Triángulo de Pascal mod 9 por clases RD9**
    
-   ![Figura Pascal RD9](graficos_colab/imagenes_pascal_rd9_figura2.png)
+   ![Figura Pascal RD9](https://raw.githubusercontent.com/Menta2357/Pascal_RD9/main/graficos_colab/imagenes_pascal_rd9_figura2.png)
 
 4. **Convergencia hacia \(e\)**
    
-   ![Convergencia hacia e](graficos_colab/convergencia_.png)
+   ![Convergencia hacia e](https://raw.githubusercontent.com/Menta2357/Pascal_RD9/main/graficos_colab/convergencia_.png)
 
 5. **Ajuste ley de potencia en el error**
    
-   ![Ajuste ley de potencia en el error](graficos_colab/ajuste_ley_potencia_error.png)
+   ![Ajuste ley de potencia en el error](https://raw.githubusercontent.com/Menta2357/Pascal_RD9/main/graficos_colab/ajuste_ley_potencia_error.png)
 
-![Ajuste ley de potencia en el error](graficos_colab/ajuste_ley_potencia_error.png)
 📥 **Descarga directa del PDF**:  
 [Pascal_RD9_V2.pdf](https://github.com/Menta2357/Pascal_RD9/releases/download/v1.0.0/Pascal_RD9_V2.pdf)
