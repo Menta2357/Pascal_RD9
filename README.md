@@ -24,108 +24,48 @@ Para compilar el documento, asegúrate de tener instalado un entorno LaTeX (por 
 
 ```bash
 pdflatex Pascal_RD9_V2.tex
-📜 Licencia
-Este trabajo está bajo Creative Commons Attribution 4.0 International (CC BY 4.0).
+# 📜 Licencia
+Este trabajo está bajo **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
 Puedes copiarlo, redistribuirlo y adaptarlo, incluso con fines comerciales, siempre que se dé el crédito apropiado al autor original.
 
-Ver texto completo de la licencia
+[Ver texto completo de la licencia](https://creativecommons.org/licenses/by/4.0/)
 
-📊 Gráficos adicionales
+---
+
+# 📊 Gráficos adicionales
 A continuación se presentan resultados adicionales generados en Google Colab que complementan el análisis del artículo.
 
-Crecimiento y oscilación de 
-𝑣
-𝑝
-(
-𝑡
-𝑛
-)
-v 
-p
-​
- (t 
-n
-​
- ) para varios primos 
-𝑝
-p
-Evolución de la valoración 
-𝑣
-𝑝
-(
-𝑡
-𝑛
-)
-v 
-p
-​
- (t 
-n
-​
- ) para distintos primos 
-𝑝
-p, mostrando patrones de crecimiento y oscilación.
+## 1. Crecimiento y oscilación de \( v_p(t_n) \) para varios primos \(p\)
+Evolución de la valoración \( v_p(t_n) \) para distintos primos \( p \), mostrando patrones de crecimiento y oscilación.
 
-Mapa de calor de 
-𝑣
-𝑝
-(
-𝑡
-𝑛
-)
- 
-m
-o
-d
- 
-9
-v 
-p
-​
- (t 
-n
-​
- )mod9
-Distribución modular de 
-𝑣
-𝑝
-(
-𝑡
-𝑛
-)
-v 
-p
-​
- (t 
-n
-​
- ) para varios primos, representada en un heatmap para identificar patrones.
+![Crecimiento y oscilación multi-p](gráficos_colab/vp_tn_multi_p.png)
 
-Triángulo de Pascal mod 9 por clases RD9
+---
+
+## 2. Mapa de calor de \( v_p(t_n) \bmod 9 \)
+Distribución modular de \( v_p(t_n) \) para varios primos, representada en un heatmap para identificar patrones.
+
+![Mapa de calor](gráficos_colab/heatmap_vp_mod9.png)
+
+---
+
+## 3. Triángulo de Pascal mod 9 por clases RD9
 Visualización del triángulo de Pascal mod 9 coloreado según las clases RD9, mostrando su estructura fractal.
 
-Convergencia hacia 
-𝑒
-e
-Gráfico que ilustra cómo una razón asociada a 
-𝑡
-𝑛
-t 
-n
-​
-  converge hacia el número 
-𝑒
-e.
+![Triángulo de Pascal RD9](gráficos_colab/pascal_rd9_figura2.png)
 
-Ajuste ley de potencia en el error
-Relación log-log entre el error y 
-𝑛
-n, con estimación del exponente 
-𝑘
-k y la constante 
-𝐶
-C del ajuste.
+---
 
-markdown
-Copiar
-Editar
+## 4. Convergencia hacia \( e \)
+Gráfico que ilustra cómo una razón asociada a \( t_n \) converge hacia el número \( e \).
+
+![Convergencia hacia e](gráficos_colab/convergencia_.png)
+
+---
+
+## 5. Ajuste ley de potencia en el error
+Relación log-log entre el error y \( n \), con estimación del exponente \( k \) y la constante \( C \) del ajuste.
+
+![Ajuste ley de potencia](gráficos_colab/ajuste_ley_potencia_error.png)
+📥 **Descarga directa del PDF**:  
+[Pascal_RD9_V2.pdf](https://github.com/Menta2357/Pascal_RD9/releases/download/v1.0.0/Pascal_RD9_V2.pdf)
