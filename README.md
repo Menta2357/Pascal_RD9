@@ -35,7 +35,7 @@ Puedes copiarlo, redistribuirlo y adaptarlo, incluso con fines comerciales, siem
 
 ## 📊 Gráficos adicionales
 
-<p><strong>1. Crecimiento y oscilación de \(v_p(t_n)\) para varios primos \(p\)</strong></p>
+[<p><strong>1. Crecimiento y oscilación de \(v_p(t_n)\) para varios primos \(p\)</strong></p>
 <p>
   <img src="https://raw.githubusercontent.com/Menta2357/Pascal_RD9/main/imagen_colab/vp_tn_multi_p.png" width="800" alt="Crecimiento multi-p">
 </p>
@@ -59,6 +59,6 @@ Puedes copiarlo, redistribuirlo y adaptarlo, incluso con fines comerciales, siem
 <p>
   <img src="https://raw.githubusercontent.com/Menta2357/Pascal_RD9/main/imagen_colab/ajuste_ley_potencia_error.png" width="800" alt="Ajuste ley de potencia en el error">
 </p>
-
+](https://github.com/Menta2357/Pascal_RD9/blob/main/imagen_colab/vp_tn_multi_p.png)
 📥 **Descarga directa del PDF**:  
 [Pascal_RD9_V2.pdf](https://github.com/Menta2357/Pascal_RD9/releases/download/v1.0.0/Pascal_RD9_V2.pdf)
