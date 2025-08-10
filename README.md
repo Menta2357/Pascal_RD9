@@ -15,7 +15,7 @@ Fuentes LaTeX y figuras del artículo:
 - `Pascal_RD9_V2.pdf` — Versión compilada del artículo.
 - `.gitignore` — Configuración para ignorar archivos temporales de LaTeX.
 - `LICENCIA` — Licencia Creative Commons Attribution 4.0 International (CC BY 4.0).
-- Carpeta `gráficos_colab/` — Contiene imágenes y resultados adicionales generados en Google Colab.
+- Carpeta `imagen_colab/` — Contiene imágenes y resultados adicionales generados en Google Colab.
 
 ---
 
@@ -24,6 +24,7 @@ Para compilar el documento, asegúrate de tener instalado un entorno LaTeX (por 
 
 ```bash
 pdflatex Pascal_RD9_V2.tex
+
 # 📜 Licencia
 Este trabajo está bajo **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
 Puedes copiarlo, redistribuirlo y adaptarlo, incluso con fines comerciales, siempre que se dé el crédito apropiado al autor original.
