@@ -35,36 +35,27 @@ Puedes copiarlo, redistribuirlo y adaptarlo, incluso con fines comerciales, siem
 # 📊 Gráficos adicionales
 A continuación se presentan resultados adicionales generados en Google Colab que complementan el análisis del artículo.
 
-## 1. Crecimiento y oscilación de \( v_p(t_n) \) para varios primos \(p\)
-Evolución de la valoración \( v_p(t_n) \) para distintos primos \( p \), mostrando patrones de crecimiento y oscilación.
+## 📊 Gráficos adicionales
 
-![Crecimiento multi-p](graficos_colab/vp_tn_multi_p.png)
+1. **Crecimiento y oscilación de \(v_p(t_n)\) para varios primos \(p\)**
+   
+   ![Crecimiento multi‑p](graficos_colab/vp_tn_multi_p.png)
 
----
+2. **Mapa de calor de \(v_p(t_n) \bmod 9\)**
+   
+   ![Mapa de calor v_p(t_n) mod 9](graficos_colab/heatmap_vp_mod9.png)
 
-## 2. Mapa de calor de \( v_p(t_n) \bmod 9 \)
-Distribución modular de \( v_p(t_n) \) para varios primos, representada en un heatmap para identificar patrones.
+3. **Triángulo de Pascal mod 9 por clases RD9**
+   
+   ![Figura Pascal RD9](graficos_colab/imagenes_pascal_rd9_figura2.png)
 
-![Mapa de calor v_p(t_n) mod 9](graficos_colab/heatmap_vp_mod9.png)
+4. **Convergencia hacia \(e\)**
+   
+   ![Convergencia hacia e](graficos_colab/convergencia_.png)
 
----
-
-## 3. Triángulo de Pascal mod 9 por clases RD9
-Visualización del triángulo de Pascal mod 9 coloreado según las clases RD9, mostrando su estructura fractal.
-
-![Figura Pascal RD9](graficos_colab/imagenes_pascall_rd9_figura2.png)
-
----
-
-## 4. Convergencia hacia \( e \)
-Gráfico que ilustra cómo una razón asociada a \( t_n \) converge hacia el número \( e \).
-
-![Convergencia hacia e](graficos_colab/convergencia_.png)
-
----
-
-## 5. Ajuste ley de potencia en el error
-Relación log-log entre el error y \( n \), con estimación del exponente \( k \) y la constante \( C \) del ajuste.
+5. **Ajuste ley de potencia en el error**
+   
+   ![Ajuste ley de potencia en el error](graficos_colab/ajuste_ley_potencia_error.png)
 
 ![Ajuste ley de potencia en el error](graficos_colab/ajuste_ley_potencia_error.png)
 📥 **Descarga directa del PDF**:  
