@@ -35,30 +35,23 @@ Puedes copiarlo, redistribuirlo y adaptarlo, incluso con fines comerciales, siem
 
 ## 📊 Gráficos adicionales
 
-[<p><strong>1. Crecimiento y oscilación de \(v_p(t_n)\) para varios primos \(p\)</strong></p>
-<p>
-  <img src="https://raw.githubusercontent.com/Menta2357/Pascal_RD9/main/imagen_colab/vp_tn_multi_p.png" width="800" alt="Crecimiento multi-p">
-</p>
+## 📊 Gráficos adicionales
 
-<p><strong>2. Mapa de calor de \(v_p(t_n) \bmod 9\)</strong></p>
-<p>
-  <img src="https://raw.githubusercontent.com/Menta2357/Pascal_RD9/main/imagen_colab/heatmap_vp_mod9.png" width="800" alt="Mapa de calor v_p(t_n) mod 9">
-</p>
+**1. Crecimiento y oscilación de \(v_p(t_n)\) para varios primos \(p\)**  
+<img src="https://raw.githubusercontent.com/Menta2357/Pascal_RD9/main/imagen_colab/vp_tn_multi_p.png" width="800" alt="Crecimiento multi-p">
 
-<p><strong>3. Triángulo de Pascal mod 9 por clases RD9</strong></p>
-<p>
-  <img src="https://raw.githubusercontent.com/Menta2357/Pascal_RD9/main/imagen_colab/imagenes_pascal_rd9_figura2.png" width="800" alt="Figura Pascal RD9">
-</p>
+**2. Mapa de calor de \(v_p(t_n) \bmod 9\)**  
+<img src="https://raw.githubusercontent.com/Menta2357/Pascal_RD9/main/imagen_colab/heatmap_vp_mod9.png" width="800" alt="Mapa de calor v_p(t_n) mod 9">
 
-<p><strong>4. Convergencia hacia \(e\)</strong></p>
-<p>
-  <img src="https://raw.githubusercontent.com/Menta2357/Pascal_RD9/main/imagen_colab/convergencia_.png" width="800" alt="Convergencia hacia e">
-</p>
+**3. Triángulo de Pascal mod 9 por clases RD9**  
+<img src="https://raw.githubusercontent.com/Menta2357/Pascal_RD9/main/imagen_colab/imagenes_pascal_rd9_figura2.png" width="800" alt="Figura Pascal RD9">
 
-<p><strong>5. Ajuste ley de potencia en el error</strong></p>
-<p>
-  <img src="https://raw.githubusercontent.com/Menta2357/Pascal_RD9/main/imagen_colab/ajuste_ley_potencia_error.png" width="800" alt="Ajuste ley de potencia en el error">
-</p>
+**4. Convergencia hacia \(e\)**  
+<img src="https://raw.githubusercontent.com/Menta2357/Pascal_RD9/main/imagen_colab/convergencia_.png" width="800" alt="Convergencia hacia e">
+
+**5. Ajuste ley de potencia en el error**  
+<img src="https://raw.githubusercontent.com/Menta2357/Pascal_RD9/main/imagen_colab/ajuste_ley_potencia_error.png" width="800" alt="Ajuste ley de potencia en el error">
+
 ](https://github.com/Menta2357/Pascal_RD9/blob/main/imagen_colab/vp_tn_multi_p.png)
 📥 **Descarga directa del PDF**:  
 [Pascal_RD9_V2.pdf](https://github.com/Menta2357/Pascal_RD9/releases/download/v1.0.0/Pascal_RD9_V2.pdf)
