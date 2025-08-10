@@ -45,3 +45,5 @@ Gráfico que ilustra cómo una razón asociada a t_n converge hacia el número e
 
 Ajuste ley de potencia en el error
 Relación log-log entre el error y n, con estimación del exponente k y la constante C del ajuste.
+📥 **Descarga directa del PDF**:  
+[Pascal_RD9_V2.pdf](https://github.com/Menta2357/Pascal_RD9/releases/download/v1.0.0/Pascal_RD9_V2.pdf)
