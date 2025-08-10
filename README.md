@@ -34,25 +34,30 @@ Puedes copiarlo, redistribuirlo y adaptarlo, incluso con fines comerciales, siem
 
 ## 📊 Gráficos adicionales
 
-1. **Crecimiento y oscilación de \(v_p(t_n)\) para varios primos \(p\)**
-   
-   ![Crecimiento multi‑p](https://raw.githubusercontent.com/Menta2357/Pascal_RD9/main/graficos_colab/vp_tn_multi_p.png)
+<p><strong>1. Crecimiento y oscilación de \(v_p(t_n)\) para varios primos \(p\)</strong></p>
+<p>
+  <img src="https://raw.githubusercontent.com/Menta2357/Pascal_RD9/main/graficos_colab/vp_tn_multi_p.png" width="800" alt="Crecimiento multi-p">
+</p>
 
-2. **Mapa de calor de \(v_p(t_n) \bmod 9\)**
-   
-   ![Mapa de calor v_p(t_n) mod 9](https://raw.githubusercontent.com/Menta2357/Pascal_RD9/main/graficos_colab/heatmap_vp_mod9.png)
+<p><strong>2. Mapa de calor de \(v_p(t_n) \bmod 9\)</strong></p>
+<p>
+  <img src="https://raw.githubusercontent.com/Menta2357/Pascal_RD9/main/graficos_colab/heatmap_vp_mod9.png" width="800" alt="Mapa de calor v_p(t_n) mod 9">
+</p>
 
-3. **Triángulo de Pascal mod 9 por clases RD9**
-   
-   ![Figura Pascal RD9](https://raw.githubusercontent.com/Menta2357/Pascal_RD9/main/graficos_colab/imagenes_pascal_rd9_figura2.png)
+<p><strong>3. Triángulo de Pascal mod 9 por clases RD9</strong></p>
+<p>
+  <img src="https://raw.githubusercontent.com/Menta2357/Pascal_RD9/main/graficos_colab/imagenes_pascal_rd9_figura2.png" width="800" alt="Figura Pascal RD9">
+</p>
 
-4. **Convergencia hacia \(e\)**
-   
-   ![Convergencia hacia e](https://raw.githubusercontent.com/Menta2357/Pascal_RD9/main/graficos_colab/convergencia_.png)
+<p><strong>4. Convergencia hacia \(e\)</strong></p>
+<p>
+  <img src="https://raw.githubusercontent.com/Menta2357/Pascal_RD9/main/graficos_colab/convergencia_.png" width="800" alt="Convergencia hacia e">
+</p>
 
-5. **Ajuste ley de potencia en el error**
-   
-   ![Ajuste ley de potencia en el error](https://raw.githubusercontent.com/Menta2357/Pascal_RD9/main/graficos_colab/ajuste_ley_potencia_error.png)
+<p><strong>5. Ajuste ley de potencia en el error</strong></p>
+<p>
+  <img src="https://raw.githubusercontent.com/Menta2357/Pascal_RD9/main/graficos_colab/ajuste_ley_potencia_error.png" width="800" alt="Ajuste ley de potencia en el error">
+</p>
 
 📥 **Descarga directa del PDF**:  
 [Pascal_RD9_V2.pdf](https://github.com/Menta2357/Pascal_RD9/releases/download/v1.0.0/Pascal_RD9_V2.pdf)
