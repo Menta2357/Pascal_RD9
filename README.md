@@ -23,7 +23,8 @@ Fuentes LaTeX y figuras del artículo:
 Para compilar el documento, asegúrate de tener instalado un entorno LaTeX (por ejemplo **TeX Live** o **MiKTeX**) y ejecuta:
 
 ```bash
-pdflatex Pascal_RD9_V2.tex
+pdflatex Pascal_RD9_V2.tex 
+```
 
 # 📜 Licencia
 Este trabajo está bajo **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
@@ -32,8 +33,6 @@ Puedes copiarlo, redistribuirlo y adaptarlo, incluso con fines comerciales, siem
 [Ver texto completo de la licencia](https://creativecommons.org/licenses/by/4.0/)
 
 ---
-
-## 📊 Gráficos adicionales
 
 ## 📊 Gráficos adicionales
 
@@ -52,6 +51,5 @@ Puedes copiarlo, redistribuirlo y adaptarlo, incluso con fines comerciales, siem
 **5. Ajuste ley de potencia en el error**  
 <img src="https://raw.githubusercontent.com/Menta2357/Pascal_RD9/main/imagen_colab/ajuste_ley_potencia_error.png" width="800" alt="Ajuste ley de potencia en el error">
 
-](https://github.com/Menta2357/Pascal_RD9/blob/main/imagen_colab/vp_tn_multi_p.png)
 📥 **Descarga directa del PDF**:  
 [Pascal_RD9_V2.pdf](https://github.com/Menta2357/Pascal_RD9/releases/download/v1.0.0/Pascal_RD9_V2.pdf)
