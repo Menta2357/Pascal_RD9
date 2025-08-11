@@ -1,29 +1,26 @@
-# Pascal_RD9
-
-Fuentes LaTeX y figuras del artículo:
-
-**"Triángulo de Pascal y RD9: Resonancia Local y Estructura p²-ádica mediante el Autómata de Resonancia"**  
+# Triángulo de Pascal y RD9: Resonancia Local y Estructura p²-ádica mediante el Autómata de Resonancia
 **Autor:** Mauro Gonzalez Romero  
 
-📥 **[Descargar PDF compilado](https://github.com/Menta2357/Pascal_RD9/releases/download/v1.0.0/Pascal_RD9_V2.pdf)**  
-📦 **[Ver todas las versiones / releases](https://github.com/Menta2357/Pascal_RD9/releases)**
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16799006.svg)](https://doi.org/10.5281/zenodo.16799006)
 
 ---
 
-## 📄 Contenido
+## 📄 Fuentes LaTeX y figuras del artículo
+Este repositorio compila en un único archivo la información del proyecto:
+
 - `Pascal_RD9_V2.tex` — Fuente LaTeX del artículo.
 - `Pascal_RD9_V2.pdf` — Versión compilada del artículo.
 - `.gitignore` — Configuración para ignorar archivos temporales de LaTeX.
 - `LICENCIA` — Licencia Creative Commons Attribution 4.0 International (CC BY 4.0).
-- Carpeta `imagen_colab/` — Contiene imágenes y resultados adicionales generados en Google Colab.
+- Carpeta `graficos_colab/` — Contiene imágenes de resultados adicionales generados en Google Colab.
 
 ---
 
-## 🛠 Cómo compilar
-Para compilar el documento, asegúrate de tener instalado un entorno LaTeX (por ejemplo **TeX Live** o **MiKTeX**) y ejecuta:
+## 🛠 Compilación
+Para compilar el documento, asegúrate de tener instalado un entorno LaTeX (por ejemplo TeX Live o MikTeX) y ejecuta:
 
 ```bash
-pdflatex Pascal_RD9_V2.tex 
+pdflatex Pascal_RD9_V2.tex
 ```
 
 # 📜 Licencia
@@ -53,3 +50,6 @@ Puedes copiarlo, redistribuirlo y adaptarlo, incluso con fines comerciales, siem
 
 📥 **Descarga directa del PDF**:  
 [Pascal_RD9_V2.pdf](https://github.com/Menta2357/Pascal_RD9/releases/download/v1.0.0/Pascal_RD9_V2.pdf)
+
+📚 Registro en Zenodo:
+https://zenodo.org/records/16799007
